@@ -1,4 +1,3 @@
-# python-webhook-order-processor
 # Python Webhook Order Processor
 
 A lightweight Python webhook application built with Flask and tested in Google Colab. It receives mock order events through HTTP POST requests, validates incoming JSON data, calculates order totals, and logs successfully processed orders.
